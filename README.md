@@ -47,22 +47,7 @@ The key finding: **ARIMA is a surprisingly strong baseline** (R² ≈ 0.97, MAPE
 ```
 ├── bitcoin_multivariate_time_series_analysis.ipynb   # Main notebook
 ├── Bitcoin Market Analysis Dataset (2021-2025).csv   # Dataset (add manually)
-├── 01_raw_price_and_returns.png
-├── 01b_all_features.png
-├── 02_transformations.png
-├── 03_acf_pacf.png
-├── 04_train_test_split.png
-├── 05_aic_bic_comparison.png
-├── 06_arima_insample_fit.png
-├── 07_residual_diagnostics.png
-├── 08_qq_plot.png
-├── 09_arima_forecast.png
-├── 10_correlation_heatmap.png
-├── 11_mv_lstm_loss.png
-├── 12_mv_bilstm_loss.png
-├── 13_all_forecasts.png
-├── 14_metrics_comparison.png
-└── 15_predicted_vs_actual.png
+├── Visualization_output_collection
 ```
 
 ---
